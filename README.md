@@ -8,7 +8,7 @@ This is beta-quality software: feature-complete and stable but probably with a f
 
 <a href="https://apps.apple.com/us/app/pokeai-chat-ask-companion/id6449488376?platform=mac"><img src="docs/app-store.svg" height=36></a> <a href="https://play.google.com/store/apps/details?id=cn.itianxia.chatme"><img src="docs/Android.svg" height=36></a> 
 
-## what is PokeAI?
+## What's PokeAI?
 
 PokeAI AI virtual humans, make life fun and work easier. Each character is an AI-powered 4.0.  
 "PokeAI can quickly find a smart, interesting, knowledgeable, simple, and sincere friend, making your life full of warm care and beautiful hope,  Less Lonely and More Connected ." and we're excited for you to experience it.
