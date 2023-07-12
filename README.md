@@ -1,6 +1,6 @@
 # PokeAI- CHAT ASK COMPANION
 
-## welcome to download PokeAI
+## Welcome to download PokeAI
 
 <img src="docs/logo.jpg" align="left" width=128 height=128>
 
