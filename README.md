@@ -6,7 +6,7 @@ Tinode is *not* XMPP/Jabber. It is *not* compatible with XMPP. It's meant as a r
 
 This is beta-quality software: feature-complete and stable but probably with a few bugs or missing features. Follow [instructions](INSTALL.md) to install and run or use one of the cloud services below. Read [API documentation](docs/API.md).
 
-<a href="https://apps.apple.com/us/app/pokeai-chat-ask-companion/id6449488376?platform=mac"><img src="docs/app-store.svg" height=36></a> <a href="https://play.google.com/store/apps/details?id=cn.itianxia.chatme"><img src="doc/Android.svg" height=36></a> 
+<a href="https://apps.apple.com/us/app/pokeai-chat-ask-companion/id6449488376?platform=mac"><img src="docs/app-store.svg" height=36></a> <a href="https://play.google.com/store/apps/details?id=cn.itianxia.chatme"><img src="docs/Android.svg" height=36></a> 
 
 ## Why?
 
