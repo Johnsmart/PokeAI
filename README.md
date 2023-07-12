@@ -57,7 +57,6 @@ You’ll feel like you’re chatting with a friend. every character is friendly,
 
 ### Characters
 
-
 | name | Categories | profile |
 | --- | :---: | :---: |
 | Cat | Entertainment | Meowww   | 
