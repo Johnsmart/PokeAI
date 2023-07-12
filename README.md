@@ -175,15 +175,7 @@ More translations are [welcome](docs/translations.md). In addition to languages 
 
 ## Screenshots
 
-### [Android]
-
-<p align="center">
-<img src="docs/android-contacts.png" alt="Android screenshot: list of chats" width=250 />
-<img src="docs/android-chat.png" alt="Android screenshot: one conversation" width=250 />
-<img src="docs/android-video-call.png" alt="Android screenshot: video call" width=250 />
-</p>
-
-### [iOS]
+### [iOS][Android]
 
 <p align="center">
 <img src="docs/home.jpg" alt="iOS screenshot: list of chats" width=250 /> <img src="docs/conversation.jpg" alt="iOS screenshot: one conversation" width=250 /> <img src="docs/chats.jpg" alt="iOS screenshot: video call" width="250" />
