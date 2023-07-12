@@ -55,24 +55,23 @@ You’ll feel like you’re chatting with a friend. every character is friendly,
 * End to end encryption with [OTR](https://en.wikipedia.org/wiki/Off-the-Record_Messaging) for one-on-one messaging and undecided method for group messaging.
 * Full text search in messages.
 
-### Translations
+### Characters
 
-All client software has support for [internationalization](docs/translations.md). The following translations are provided:
 
-| Language | Server | Webapp | Android | iOS |
-| --- | :---: | :---: | :---: | :---: |
-| English | &check; | &check; | &check; | &check; |
-| Chinese (simplified) | &check; | &check; | &check; | &check; |
-| Chinese (traditional) |   | &check; | &check; | &check; |
-| French | &check; | &check; | &check; |   |
-| German |   | &check; | &check; |   |
-| Hindi |   |   | &check; |   |
-| Korean |   | &check; | &check; |   |
-| Portugese | &check; |   | &check; |   |
-| Romanian |   | &check; | &check; |   |
-| Russian | &check; | &check; | &check; | &check; |
-| Spanish | &check; | &check; | &check; | &check; |
-| Vietnamese | &check; |   |   |   |
+| name | Categories | profile |
+| --- | :---: | :---: |
+| Cat | Entertainment | Meowww   | 
+| 	Darwin | Male | English naturalist, geologist, and biologist |
+| 	Einstein | Male | developing the theory of relativity， quantum mechanics | 
+| Translator | Copilot | Translator | 
+| Girlfriend | Female |  | 
+| Boyfriend | Male |   | 
+| Korean |   | &check; | 
+| Portugese | &check; |   | &check; |   
+| Romanian |   | &check; | &check; |  
+| Russian | &check; | &check; | &check; | 
+| Spanish | &check; | &check; | &check; | 
+| Vietnamese | &check; |   |   |  
 
 More translations are [welcome](docs/translations.md). In addition to languages listed above, particularly interested in Arabic, Bengali, Indonesian, Urdu, Japanese, Turkish, Persian.
 
