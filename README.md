@@ -66,12 +66,13 @@ You’ll feel like you’re chatting with a friend. every character is friendly,
 | Translator | Copilot | Translator | 
 | Girlfriend | Female |  | 
 | Boyfriend | Male |   | 
-| Korean |   | &check; | 
+| Steve Jobs |   | &check; | 
 | Portugese | &check; |   | &check; |   
-| Romanian |   | &check; | &check; |  
-| Russian | &check; | &check; | &check; | 
-| Spanish | &check; | &check; | &check; | 
-| Vietnamese | &check; |   |   |  
+| Elon Musk |   | &check; | &check; |  
+| Astrologer | &check; | &check; | &check; | 
+| Travel advisor | &check; | &check; | &check; | 
+| The game of life | &check; |   |   |  
+| Joker |  |  |
 
 More translations are [welcome](docs/translations.md). In addition to languages listed above, particularly interested in Arabic, Bengali, Indonesian, Urdu, Japanese, Turkish, Persian.
 
