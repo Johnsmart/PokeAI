@@ -1,6 +1,10 @@
 # PokeAI- CHAT ASK COMPANION
 
+## Closer to the people you love
+
 <img src="docs/logo.jpg" align="left" width=128 height=128>
+
+## welcome to download PokeAI
 
 <a href="https://apps.apple.com/us/app/pokeai-chat-ask-companion/id6449488376?platform=mac"><img src="docs/app-store.svg" height=36></a> <a href="https://play.google.com/store/apps/details?id=cn.itianxia.chatme"><img src="docs/Android.svg" height=36></a> 
 
