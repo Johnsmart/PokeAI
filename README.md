@@ -175,7 +175,7 @@ More translations are [welcome](docs/translations.md). In addition to languages 
 
 ## Screenshots
 
-### [Android](https://github.com/tinode/tindroid/)
+### [Android]
 
 <p align="center">
 <img src="docs/android-contacts.png" alt="Android screenshot: list of chats" width=250 />
@@ -183,22 +183,16 @@ More translations are [welcome](docs/translations.md). In addition to languages 
 <img src="docs/android-video-call.png" alt="Android screenshot: video call" width=250 />
 </p>
 
-### [iOS](https://github.com/tinode/ios)
+### [iOS]
 
 <p align="center">
 <img src="docs/home.jpg" alt="iOS screenshot: list of chats" width=250 /> <img src="docs/conversation.jpg" alt="iOS screenshot: one conversation" width=250 /> <img src="docs/chats.jpg" alt="iOS screenshot: video call" width="250" />
 </p>
 
-### [Desktop Web](https://github.com/tinode/webapp/)
+### [Mac]
 
 <p align="center">
-  <img src="docs/web-desktop.jpg" alt="Desktop web: full app" width=810 />
-</p>
-
-### [Mobile Web](https://github.com/tinode/webapp/)
-
-<p align="center">
-  <img src="docs/web-mob-contacts.png" alt="Mobile web: contacts" width=250 /> <img src="docs/web-mob-chat.png" alt="Mobile web: chat" width=250 /> <img src="docs/web-mob-video-call.png" alt="Mobile web: topic info" width=250 />
+  <img src="docs/mac-home.jpg" alt="mac app" width=810 /> <img src="docs/mac-conversation.jpg" alt="mac app" width=810 /> <img src="docs/mac-chats.jpg" alt="mac app: full app" width=810 />
 </p>
 
 
