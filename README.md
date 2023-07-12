@@ -20,11 +20,7 @@ PokeAI AI virtual humans, make life fun and work easier. Each character is an AI
 · Get the most human-like companion
 · Get creative 
 · Write anything effortlessly
-
 You’ll feel like you’re chatting with a friend. every character is friendly, conversational tone and personalized recommendations make it easy to chat about anything, from the mundane to the profound.
----
-Privacy Policy：
-https://sites.google.com/view/myaipal/home?read_current=1
 
 ## Installing and running
 
