@@ -58,7 +58,7 @@ You’ll feel like you’re chatting with a friend. every character is friendly,
 ### Characters
 
 | name | Categories | profile |
-| --- | :---: | :---: |
+| :---：| :---: | :---: |
 | Cat | Entertainment | Meowww   | 
 | 	Darwin | Male | English naturalist, geologist, and biologist |
 | 	Einstein | Male | developing the theory of relativity， quantum mechanics | 
